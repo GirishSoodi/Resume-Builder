@@ -48,7 +48,7 @@ const Footer = () => {
                                 <path d="M8.56 2.75c4.37 6 6 9.42 8 17.72"></path>
                             </svg>
                         </a>
-                        <a href="https://www.linkedin.com/company/prebuiltui" target="_blank" rel="noreferrer">
+                        <a href=" http://www.linkedin.com/in/girish-soodi-310b1b311" target="_blank" rel="noreferrer">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-linkedin size-5 hover:text-green-500" aria-hidden="true">
                                 <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
                                 <rect width="4" height="12" x="2" y="9"></rect>
@@ -62,7 +62,7 @@ const Footer = () => {
                                 </path>
                             </svg>
                         </a>
-                        <a href="https://www.youtube.com/@prebuiltui" target="_blank" rel="noreferrer">
+                        <a href="https://www.youtube.com/@girish1298" target="_blank" rel="noreferrer">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-youtube size-6 hover:text-green-500" aria-hidden="true">
                                 <path d="M2.5 17a24.12 24.12 0 0 1 0-10 2 2 0 0 1 1.4-1.4 49.56 49.56 0 0 1 16.2 0A2 2 0 0 1 21.5 7a24.12 24.12 0 0 1 0 10 2 2 0 0 1-1.4 1.4 49.55 49.55 0 0 1-16.2 0A2 2 0 0 1 2.5 17">
                                 </path>
